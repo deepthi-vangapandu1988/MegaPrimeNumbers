@@ -1,0 +1,15 @@
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\bin\Debug\net6.0\MegaPrimeNumbers.exe
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\bin\Debug\net6.0\MegaPrimeNumbers.deps.json
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\bin\Debug\net6.0\MegaPrimeNumbers.runtimeconfig.json
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\bin\Debug\net6.0\MegaPrimeNumbers.dll
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\bin\Debug\net6.0\MegaPrimeNumbers.pdb
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.csproj.AssemblyReference.cache
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.AssemblyInfoInputs.cache
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.AssemblyInfo.cs
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.csproj.CoreCompileInputs.cache
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.dll
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\refint\MegaPrimeNumbers.dll
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.pdb
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\MegaPrimeNumbers.genruntimeconfig.cache
+E:\RadiantDigital\Training\Anil_Venkat\MegaPrimeNumbers\MegaPrimeNumbers\obj\Debug\net6.0\ref\MegaPrimeNumbers.dll
